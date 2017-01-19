@@ -1,6 +1,13 @@
-/*#first-nav {
-  background-color: rgba(0, 0, 0, 0);
-}*/
 div.tp-bgimg.defaultimg {
   background-position: center center !important;
+}
+a.navbar-brand {
+  padding: 0;
+}
+.navbar-brand img {
+  width: 265px;
+}
+.overlay {
+	background: rgba(0,0,0,0.4);
+	height: 100vh;
 }
