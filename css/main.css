@@ -8,8 +8,8 @@ a.navbar-brand {
   width: 265px;
 }
 .overlay {
-	background: rgba(0,0,0,0.4);
-	height: 100vh;
+	width: 300px;
+  height: inherit;
 }
 .tp-caption.modern_big_redbg {
   background-color: #da251d;
