@@ -14,3 +14,6 @@ a.navbar-brand {
 .tp-caption.modern_big_redbg {
   background-color: #da251d;
 }
+div#page-top.fullwidthbanner {
+  height: 90vh !important;
+}
